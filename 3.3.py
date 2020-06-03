@@ -115,4 +115,5 @@ if __name__ == '__main__':
     print(f"Algorithm execution time: {finish - start}ms."
           f"\nCrossovers executed: {crossovers_num}"
           f"\nMutations executed: {mutate_num}"
+          
           f"\nКількість мутацій: {numb_of_mutations}")
